@@ -3,7 +3,6 @@ import requests
 import os
 import socket
 import subprocess
-import logging
 
 os.system("taskkill /im chrome.exe")
 os.system('cls')
